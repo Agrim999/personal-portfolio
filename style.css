@@ -206,7 +206,7 @@ main{
         color: var(--color-white);
     }
 }
-
+@media screen and (max-width: 1000px),
 @media screen and (max-width: 768px) {
     #header .header-container .navbar .logo{
         display:block;
